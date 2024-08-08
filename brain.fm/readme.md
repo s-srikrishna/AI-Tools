@@ -7,7 +7,7 @@
 
 <p>
 
-Boost Your Productivity and Well-being with Brain.fm’s AI-Powered Music
+<b>Boost Your Productivity and Well-being with Brain.fm’s AI-Powered Music</b>
 
 Are you looking for a powerful tool to enhance your focus, productivity, and well-being? Look no further than Brain.fm – a revolutionary app that harnesses the power of AI to create music specifically designed to improve focus, aid in relaxation, and promote better sleep. 
 
@@ -22,6 +22,8 @@ Are you looking for a powerful tool to enhance your focus, productivity, and wel
 In today’s fast-paced world, maintaining deep concentration while working on complex tasks can be a challenging feat. With Brain.fm, you have access to scientifically crafted music that not only enhances cognitive functions but also helps you achieve a state of deep concentration, allowing you to tackle your projects with enhanced clarity and efficiency.
 
 Brain.fm’s music isn’t just about background noise – it’s tailored to significantly boost your productivity and well-being. Whether you’re striving to excel on a challenging project or simply need to unwind after a long day, Brain.fm’s tailored soundtracks can make a remarkable difference in your mental state.
+
+Learn more at - <a href="brain.fm">brain.fm</a>
 
 </p>
 
