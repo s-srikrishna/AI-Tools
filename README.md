@@ -3,6 +3,11 @@
 
 <img src="https://media.licdn.com/dms/image/D5612AQEdyHlcfylkzg/article-cover_image-shrink_720_1280/0/1722700694773?e=1728518400&v=beta&t=5jzTuvT9opu5zBhahGfsL0_dwX3Hf1ymUmS3aC2lSLg">
 
+<video width="1080" height="1920" controls>
+        <source src="muscular-goku-4k.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+</video>
+
 <pre>
 Hello, GitHub Community!
   
@@ -13,8 +18,7 @@ Every day, I'll be sharing insights and updates on the latest and greatest tool 
 Whether you're an AI enthusiast, a tech professional, or just curious geek about the future of technology, this series is for you. 
 
 This series is started for a commitment towards life-long learning. Stay tuned for exciting content and let's explore the limitless possibilities of AI together!
-  
-#AITools #Innovation #TechTrends #DailyLearning #AI
+
 </pre>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
