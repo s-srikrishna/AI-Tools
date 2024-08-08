@@ -1,7 +1,7 @@
 <h1 align="center">Brain.fm AI - Unleash your Frequency Healing and Concentration 🧠</h1>
 <h3 align="center">Brain.fm uses AI to create music that improves focus and helps in relaxation and sleep. The app’s music is scientifically designed to enhance cognitive functions and help you achieve a state of deep concentration. Whether you’re working on a complex project or simply need to unwind, Brain.fm’s tailored soundtracks can significantly boost your productivity and well-being.</h3>
 
-<img src="https://media.licdn.com/dms/image/D5612AQH7o6aKLnt0tg/article-inline_image-shrink_1000_1488/0/1722993771068?e=1728518400&v=beta&t=8p7oWpg7zRtHEJJu7scMiJl3_a82a20-01wpnFX4WQ0">
+<img src="https://media.licdn.com/dms/image/D5612AQH7b6s6iUtlSw/article-cover_image-shrink_423_752/0/1722993665680?e=1728518400&v=beta&t=Nf9v4MZnTtj2x9qIyPQzKEL0vhRig3jPE17Qmf2jE0Y">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
@@ -30,7 +30,7 @@ Learn more at - <a href="https://www.brain.fm/" target="_blamk">brain.fm</a>
 
 - Know more about me @ [My Personal Portfolio](https://sri-krishna-portfolio.netlify.app)
 
-- Connect with me @ <a href="www.linkedin.com/in/s-sri-krishna">LinkedIn</a>
+- Connect with me @ <a href="https://linkedin.com/in/s-sri-krishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="s-sri-krishna" height="30" width="40" /></a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-srikrishna&show_icons=true&locale=en" alt="s-srikrishna" /></p>
 
