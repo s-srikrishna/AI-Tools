@@ -30,7 +30,7 @@ Learn more at - <a href="https://www.brain.fm/" target="_blamk">brain.fm</a>
 
 - Know more about me @ [My Personal Portfolio](https://sri-krishna-portfolio.netlify.app)
 
-- Connect with me @ [LinkedIn](www.linkedin.com/in/s-sri-krishna)
+- Connect with me @ <a href="www.linkedin.com/in/s-sri-krishna">LinkedIn</a>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s-srikrishna&show_icons=true&locale=en" alt="s-srikrishna" /></p>
 
