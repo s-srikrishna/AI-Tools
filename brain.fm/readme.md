@@ -23,7 +23,7 @@ In today’s fast-paced world, maintaining deep concentration while working on c
 
 Brain.fm’s music isn’t just about background noise – it’s tailored to significantly boost your productivity and well-being. Whether you’re striving to excel on a challenging project or simply need to unwind after a long day, Brain.fm’s tailored soundtracks can make a remarkable difference in your mental state.
 
-Learn more at - <a href="brain.fm">brain.fm</a>
+Learn more at - <a href="https://www.brain.fm/" target="_blamk">brain.fm</a>
 
 </p>
 
