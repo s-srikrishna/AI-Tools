@@ -1,7 +1,7 @@
 <h1 align="center">Brain.fm AI - Unleash your Frequency Healing and Concentration 🧠</h1>
 <h3 align="center">Brain.fm uses AI to create music that improves focus and helps in relaxation and sleep. The app’s music is scientifically designed to enhance cognitive functions and help you achieve a state of deep concentration. Whether you’re working on a complex project or simply need to unwind, Brain.fm’s tailored soundtracks can significantly boost your productivity and well-being.</h3>
 
-<img src="https://t3.ftcdn.net/jpg/05/55/06/70/360_F_555067051_3xPcPrhgAzzMa2DgvPYA8UNHH85LI7pY.jpg" align="center">
+<img src="https://t3.ftcdn.net/jpg/05/55/06/70/360_F_555067051_3xPcPrhgAzzMa2DgvPYA8UNHH85LI7pY.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-srikrishna&label=Profile%20views&color=0e75b6&style=flat" alt="s-srikrishna" /> </p>
 
